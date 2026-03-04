@@ -1,6 +1,6 @@
 # 🌌 Voidsong
 
-**Voidsong** is a narrative-driven experience set in a universe where **ancient magic** collides with **forgotten technology**.  
+**Voidsong** is a narrative-driven experience set in a universe where ancient magic collides with forgotten technology.  
 Every choice resonates through eternity — shaping destinies, altering factions, and rewriting the fabric of reality itself.
 
 ---
@@ -36,4 +36,66 @@ It is a world you influence.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/voidsong.git
+git clone https://github.com/your-username/voidsong.git
+```
+
+Install dependencies (if applicable):
+
+```bash
+# Example
+npm install
+```
+
+Run the project:
+
+```bash
+npm start
+```
+
+> Adjust commands based on the actual tech stack used.
+
+---
+
+## 📚 Documentation
+
+Project documentation, world-building notes, and development guidelines can be found in the `/docs` directory.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributors who are passionate about:
+
+- Narrative design  
+- World-building  
+- Gameplay systems  
+- Technical development  
+
+To contribute:
+
+1. Fork the repository  
+2. Create your feature branch  
+3. Submit a Pull Request  
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.  
+See the `LICENSE` file for details.
+
+---
+
+## 🌐 Official Links
+
+X (Twitter): https://x.com/VoidsongDigital  
+Website: https://voidsong.digital/
+
+---
+
+## ✨ Vision
+
+Voidsong is more than a project.  
+It is an evolving universe.
+
+Where echoes never fade.
